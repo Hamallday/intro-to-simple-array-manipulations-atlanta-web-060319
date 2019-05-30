@@ -37,3 +37,11 @@ end
 def using_flatten(arr)
   arr.flatten
 end
+
+def using_delete(arr, string)
+  arr.delete
+end
+
+def using_delete_at(arr, int)
+  arr.delete_at(2)
+end
