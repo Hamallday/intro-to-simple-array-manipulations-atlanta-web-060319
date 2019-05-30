@@ -18,9 +18,9 @@ def using_shift(arr, string)
   arr.shift(string)
 end
 
-def shift_with_args(arr)
-  arr.shift(2)
-end
+# def shift_with_args(arr)
+#   arr.shift(2)
+# end
 
 
 
